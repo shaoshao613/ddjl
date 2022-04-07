@@ -21,3 +21,9 @@
 #运行
 
 python main.py
+
+#效果
+![avatar](http://imgdouban.sotapit.com/WechatIMG328.jpeg
+)
+
+[base64str]:data:image/png;base64,iVBORw0......
